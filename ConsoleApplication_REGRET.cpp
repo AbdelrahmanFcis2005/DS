@@ -79,7 +79,7 @@
 #include <cstdlib>
 
 int main() {
-	std::cout << "Hello World!OK\n";
+	std::cout << "Hello World!2025\n";
     std::string subject = "Test Subject";
     std::string body = "This is a test email from C++!";
     std::string to = "your_email@example.com";
